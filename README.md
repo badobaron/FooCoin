@@ -1,0 +1,1 @@
+Scrypt Proof of Work
